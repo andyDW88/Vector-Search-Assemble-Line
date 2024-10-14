@@ -1,5 +1,5 @@
 # Vector-Search-Assemble-Line (UNDER DEVELOPMENT)
-PDF Vector Searcher App
+PDF Vector Search App
 
 This is a simple **Generative AI Chatbot** that allows users to:
 - Upload a PDF file.
